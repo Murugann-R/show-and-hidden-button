@@ -1,0 +1,113 @@
+body {
+  background-color: aqua;
+}
+#btn input {
+  font-size: 30px;
+  padding: 13px;
+  text-transform: capitalize;
+  background-color: white;
+  color: black;
+  margin-left: 150px;
+  margin-top: 30px;
+  position: relative;
+  border-radius: 30px;
+}
+#boxid {
+  background-color: white;
+  height: 400px;
+  /* box-shadow: 5px 5px 5px 5px; */
+  width: 700px;
+  margin-left: 400px;
+  margin-top: 80px;
+  visibility: hidden;
+}
+
+#boxsub {
+  font-size: 20px;
+  color: black;
+
+  visibility: hidden;
+  background-color: white;
+  border-color: white;
+  margin-left: 1070px;
+  font-weight: bold;
+  margin-top: 70px;
+  position: absolute;
+  padding: 5px;
+}
+
+#boxid h1 {
+  padding: 10px;
+  margin-left: 150px;
+  margin-top: -20px;
+  font-size: 30px;
+  text-transform: capitalize;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  /* text-align: center; */
+}
+#boxid p {
+  font-size: 30px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+  margin-top: 100px;
+}
+#boxid2 {
+  background-color: white;
+  height: 400px;
+  /* box-shadow: 5px 5px 5px 5px; */
+  width: 700px;
+  margin-left: 400px;
+  margin-top: -400px;
+  visibility: hidden;
+}
+#boxid2 h1 {
+  padding: 10px;
+  margin-left: 150px;
+  margin-top: -20px;
+  font-size: 30px;
+  text-transform: capitalize;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  /* text-align: center; */
+}
+#boxid2 p {
+  font-size: 30px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+  margin-top: 100px;
+}
+#boxid3 {
+  background-color: white;
+  height: 400px;
+  /* box-shadow: 5px 5px 5px 5px; */
+  width: 700px;
+  margin-left: 400px;
+  margin-top: -400px;
+  visibility: hidden;
+}
+#boxid3 h1 {
+  padding: 10px;
+  margin-left: 150px;
+  margin-top: -20px;
+  font-size: 30px;
+  text-transform: capitalize;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  /* text-align: center; */
+}
+#boxid3 p {
+  font-size: 30px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+  margin-top: 100px;
+}
